@@ -1,2 +1,2 @@
-# CS6.284
-lab of cs 6.284
+# CS6.824
+lab of cs 6.824
